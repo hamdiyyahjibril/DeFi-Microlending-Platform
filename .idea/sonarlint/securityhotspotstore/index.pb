@@ -5,3 +5,5 @@ O
 tests/reputation-system.test.ts,6/9/6907ff0c07493f1fa039cd71e6369818d97c7647
 K
 contracts/microlending.clar,e/5/e542e62a20652a838cb103b47342eed56769fb20
+J
+tests/microlending.test.ts,b/b/bbaac67fbc7d2f97f484558754daac200ddc3665
