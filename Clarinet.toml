@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.microlending]
+path = 'contracts/microlending.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.reputation-system]
 path = 'contracts/reputation-system.clar'
 clarity_version = 2
