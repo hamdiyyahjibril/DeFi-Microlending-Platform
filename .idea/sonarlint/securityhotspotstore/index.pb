@@ -7,3 +7,5 @@ K
 contracts/microlending.clar,e/5/e542e62a20652a838cb103b47342eed56769fb20
 J
 tests/microlending.test.ts,b/b/bbaac67fbc7d2f97f484558754daac200ddc3665
+N
+contracts/loan-management.clar,5/c/5c3c50b913b89f4599785a003d3a6459304fddfe
